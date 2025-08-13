@@ -59,7 +59,7 @@ export default function Auth() {
   };
 
   return (
-    <div className="flex justify-center items-center h-screen bg-gray-50">
+    <div className="flex justify-center items-center h-screen bg-gray-50 p-2">
       <Card className="w-full max-w-md">
         <CardHeader>
           <CardTitle className="text-center">Expense Tracker</CardTitle>
