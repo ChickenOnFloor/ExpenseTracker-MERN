@@ -45,7 +45,7 @@ Frontend:
 
 Start backend server:  
 `cd backend`  
-`npm run dev`
+`node server.js`
 
 Start frontend:  
 `cd ../frontend`  
